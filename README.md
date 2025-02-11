@@ -1,0 +1,2 @@
+# Stock-Data-Analysis
+https://app.powerbi.com/view?r=eyJrIjoiMzczZDg5ZGYtM2IyMi00MjAwLTk1OTUtMjViNmNkNTVmNTUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
